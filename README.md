@@ -1,2 +1,1 @@
-My first readme
-my second commit
+My first readme update
